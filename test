@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styleZeroing.css">
+  <link rel="stylesheet" href="style.css">
+  <title>JS test</title>
+</head>
+<body class="body">
+  <div class="page">
+    <h1 class="title">JS Формы</h1>
+    <div class="slider">
+      <div class="slider__wrapper">
+        <div class="slider__slide">
+          <div class="box">111</div>
+        </div>
+        <div class="slider__slide">
+          <div class="box">222</div>
+        </div>
+        <div class="slider__slide">
+          <div class="box">333</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
